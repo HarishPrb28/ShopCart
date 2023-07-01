@@ -9,9 +9,9 @@ function NavBar() {
           <Link to="/">Shopping Cart</Link>
         </div>
         <div className="nav-items">
-          <Link to="/">Home</Link>
+          <Link to="/">HomePage</Link>
           <Link to="/CartPage" className="mycart">
-            Cart
+            CartPage
           </Link>
         </div>
       </nav>
